@@ -31,8 +31,8 @@ Use reputable wallets and keep software updated. Enable two‑factor authenticat
 When in doubt, ask an experienced contact or use official support channels for exchanges and wallets.
 Contact
 
-Telegram: t.me/flashblockchainn
-WhatsApp: wa.me/13687773928
+Telegram:https//:t.me/flashblockchainn
+WhatsApp:https//:wa.me/13687773928
 
 Flash Bitcoin and Flash USDT Explained — What You Need to Know About “Temporary” Crypto Claims
 
